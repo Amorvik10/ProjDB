@@ -1,8 +1,8 @@
 CREATE TABLE entity(Primary key Name, card);
 INSERT INTO entity VALUES(AGARES/AGUARES, 2 of Rods)
-INSERT INTO entity VALUES(, )
-INSERT INTO entity VALUES(, )
-INSERT INTO entity VALUES(, )
+INSERT INTO entity VALUES(AINI, 4 of Cups)
+INSERT INTO entity VALUES(ALLOCES/ALLOCEN, 9 of Rods)
+INSERT INTO entity VALUES(AMDUSIAS, 8 of Cups)
 INSERT INTO entity VALUES(, )
 INSERT INTO entity VALUES(, )
 INSERT INTO entity VALUES(, )
