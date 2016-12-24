@@ -1,0 +1,19 @@
+CREATE TABLE TM();
+
+CREATE TABLE Seraphim();
+CREATE TABLE Cherubim();
+CREATE TABLE Thrones();
+
+CREATE TABLE Dominions();
+CREATE TABLE Principalities();
+CREATE TABLE Powers();
+
+CREATE TABLE Virtues();
+CREATE TABLE Archangels();
+CREATE TABLE Angels();
+
+CREATE TABLE Prince();
+CREATE TABLE King();
+CREATE TABLE Duke();
+CREATE TABLE Earl();
+CREATE TABLE President();
